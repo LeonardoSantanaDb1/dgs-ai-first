@@ -1,10 +1,10 @@
 # Exercício 1.1 — Análise de Viabilidade Técnica com Fundamentos de LLM e Engenharia de Contexto
 
-**Nome:** Leonardo Santana
-**Papel/Cargo:** Desenvolvedor
-**Data:** 2026-06-01
+**Nome:** Leonardo Santana  
+**Papel/Cargo:** Desenvolvedor  
+**Data:** 2026-06-04
 
---- 
+---
 
 # Análise Inicial (Humana)
 
