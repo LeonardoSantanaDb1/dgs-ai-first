@@ -2,13 +2,9 @@
 
 **Nome:** Leonardo Santana  
 **Papel/Cargo:** Desenvolvedor  
-<<<<<<< HEAD
-**Data:** 2026-06-04
-=======
-**Data:** 2026-06-01  
->>>>>>> 4438a0f (feat: exercicio 1.3 pipeline rag)
+**Data:** 2026-06-04  
 
----
+--- 
 
 # Análise Inicial (Humana)
 
