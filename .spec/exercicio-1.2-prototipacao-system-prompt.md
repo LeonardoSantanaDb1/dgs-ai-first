@@ -1,10 +1,10 @@
 # Exercício 1.2 — Prototipação de Prompt com Engenharia de Contexto
 
-**Nome:** Leonardo Santana
-**Papel/Cargo:** Desenvolvedor
+**Nome:** Leonardo Santana  
+**Papel/Cargo:** Desenvolvedor  
 **Data:** 2026-06-04
 
---- 
+---
 
 # Análise Inicial (Humana)
 
